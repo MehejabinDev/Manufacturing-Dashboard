@@ -1,5 +1,5 @@
 # Manufacturing-Dashboard📊
-Developed a Manufacturing Dashboard in MS Excel to monitor and analyze production performance effectively. The dashboard includes key KPIs such as Processed Quantity, Rejection Quantity, Manufactured Quantity, and Wastage Quantity. Interactive charts and visualizations were created to track:
+Developed a Manufacturing Dashboard using power BI to monitor and analyze production performance effectively. The dashboard includes key KPIs such as Processed Quantity, Rejection Quantity, Manufactured Quantity, and Wastage Quantity. Interactive charts and visualizations were created to track:
 Production overview
 Comparisons across periods or units
 Trends in production and rejection
